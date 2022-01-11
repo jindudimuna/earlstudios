@@ -1,0 +1,19 @@
+body, html{
+  background: #f4f4f4;
+  height: 100%;
+}
+
+.banner {
+  background: #05080C;
+  background: -webkit-linear-gradient(to right, #05080C, #FFFEEA);
+  background: linear-gradient(to right, #05080C, #FFFEEA);
+}
+
+h1 {
+  font-family: 'Changa';
+}
+
+.nav-item {
+  font-family: 'Genos';
+  font-size: 1.5em;
+}
