@@ -17,3 +17,7 @@ h1 {
   font-family: 'Genos';
   font-size: 1.5em;
 }
+
+.container-fluid {
+  background-color:#f4f4f4 ;
+}
