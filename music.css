@@ -12,8 +12,8 @@ body, html {
 
 img{
 
-	width: 30%;
-	height: 30%;
+	width: 40%;
+	height: 40%;
 	margin: 10px;
 	object-fit: cover;
 	cursor: pointer;
@@ -22,7 +22,7 @@ img{
 
 
 img:hover {
-transform: scale(2.1);
+transform: scale(2.0);
 
 }
 
