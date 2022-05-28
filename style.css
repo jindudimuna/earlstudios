@@ -22,20 +22,26 @@ h1 {
 
 .container-fluid {
   background-color:#101011 ;
-
+  color: #f4f4f4;
   
 }
 .navbar-brand{
   color: #f4f4f4;
 }
 
-button.navbar-toggler{
-  color: #203295;
+.navbar-toggler{
+  color: #f4f4f4;
+
 }
-span.navbar-toggler-icon{
+
+.navbar-toggler.collapsed{
+  color: #f4f4f4;
+
+}
+a.nav-link{
   color: #f4f4f4;
 }
 
-a.nav-link{
-  color: #f4f4f4;
+span.navbar-toggler-icon{
+  border-color: #f4f4f4
 }
