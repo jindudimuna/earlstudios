@@ -18,6 +18,24 @@ h1 {
   font-size: 1.5em;
 }
 
+
+
 .container-fluid {
   background-color:#101011 ;
+
+  
+}
+.navbar-brand{
+  color: #f4f4f4;
+}
+
+button.navbar-toggler{
+  color: #203295;
+}
+span.navbar-toggler-icon{
+  color: #f4f4f4;
+}
+
+a.nav-link{
+  color: #f4f4f4;
 }
